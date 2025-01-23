@@ -1,3 +1,5 @@
 opencv-python
 numpy
 mediapipe
+
+# download efficientdet_lite0, efficientdet_lite2 and ssd_mobilenet_v2 from https://ai.google.dev/edge/mediapipe/solutions/vision/object_detector?hl=fr
